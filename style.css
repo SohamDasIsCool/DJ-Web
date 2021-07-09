@@ -1,0 +1,14 @@
+.vl {
+    border:solid black 3px;
+    height: 500px;
+    width:300px;
+    left:250px;
+    position: absolute;
+  }
+  .v2 {
+    border:solid black 3px;
+    height: 500px;
+    width:300px;
+    left:750px;
+    position: absolute;
+  }
